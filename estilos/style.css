@@ -31,10 +31,14 @@ main {
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.479);
+
+    transition: width 0.4s, height 0.4s;
+    transition-timing-function: ease;
 }
 section#login > div#imagem {
     display: block;
     background-image: url(../imagens/predio_mobile_first.jpeg);
+    border-radius: 20px;
     background-size: contain;
     height: 200px;
     background-repeat: no-repeat;
