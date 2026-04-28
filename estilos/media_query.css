@@ -3,7 +3,7 @@
 @media screen and (max-width: 768px) {
     section#login {
         display: flex;
-        height: 500px;
+        height: 515px;
         width: 255px;
         flex-direction: column;
         
@@ -26,7 +26,7 @@
     }
     section#login {
         width: 80vw;
-        height: 500px;
+        height: 515px;
         display: flex;
     }
     section#login > div#image {
@@ -52,7 +52,7 @@
     }
     section#login {
         width: 950px;
-        height: 500px;
+        height: 515px;
         display: flex;
     }
     section#login > div#image {
